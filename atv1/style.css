@@ -1,0 +1,27 @@
+		#a{
+			background-color: #cf3a69;
+			 width: 650px; 
+			 height: 250px;
+		}
+		#b{
+			background-color: #b6c474; 
+			width: 61%; 
+			height: 61%;
+		}
+		#c{
+			color: yellow; 
+			background-color: darkcyan; 
+			font-weight: bold; 
+			font-size: 32px; 
+			font-family:sans-serif;
+		}
+		#d{
+			background-color: rgb(33, 1, 35);
+			 width: 43%; 
+			 height:44vh;
+		}
+		#e{
+			background-color: rgb(230, 218, 198); 
+			width: 82vw; 
+			height:47%;
+		}
